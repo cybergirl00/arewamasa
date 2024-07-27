@@ -27,7 +27,7 @@ const Product = () => {
         }
     ]
   return (
-    <section className="py-32" id="#dishes">
+    <section className="py-32" id="dishes">
     <div className="max-w-screen-xl mx-auto px-4 md:px-8">
         <div className="space-y-5 sm:text-center sm:max-w-md sm:mx-auto">
             <h1 className="text-gray-800 text-3xl font-extrabold sm:text-4xl">Our Popular Masa Dishes</h1>

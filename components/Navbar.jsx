@@ -5,8 +5,8 @@ const Navbar = () => {
 
     const navigation = [
         { title: "Popular Dishes", path: "#dishes" },
-        { title: "About", path: "javascript:void(0)" },
-        { title: "Contact", path: "javascript:void(0)" },
+        { title: "About", path: "#about" },
+        { title: "Contact", path: "#contact" },
         
     ]
     // #8DFF6E

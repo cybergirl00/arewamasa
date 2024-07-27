@@ -2,8 +2,8 @@ import { SoupIcon } from 'lucide-react';
 
 const Owner = () => {
   return (
-    <div>
-      <h3 className="text-3xl font-bold flex flex-col items-center justify-center p-4">About the Chef</h3>
+    <section id="about">
+      <h3 className="text-3xl font-bold flex flex-col items-center pt-7 justify-center p-4">About the Chef</h3>
 
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8 items-center justify-center">
         <div className="p-7">
@@ -64,7 +64,7 @@ const Owner = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
