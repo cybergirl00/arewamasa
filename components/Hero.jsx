@@ -41,6 +41,7 @@ const Hero = () => {
             Experience the Taste of Tradition: Authentic Masa Cuisine. Your tommy will thank you
             </p>
             <div className="items-center justify-center gap-x-3 space-y-3 sm:flex sm:space-y-0 xl:justify-start">
+                {/* buildforbusinessarewamasa.hashnode.dev */}
                 <a href="#dishes" className="flex items-center justify-center gap-x-2 py-2 px-4 text-white font-medium bg-primary duration-150 hover:bg-green-300 active:bg-primary rounded-lg md:inline-flex">
                   Explore Menu
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
